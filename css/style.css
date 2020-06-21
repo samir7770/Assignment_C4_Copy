@@ -1,0 +1,177 @@
+img{max-width: 100%}
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background: #7F56F5;
+    width: 100%;
+    padding: 25px;
+    position: fixed;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+    overflow: hidden;
+}
+.logo{
+    width: 20%;
+    float: left;
+    padding-top: 15px;
+}
+.logo img{}
+nav{
+    width: 80%;
+    float: left;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    text-align: right;
+    list-style-type: none;
+}
+nav ul li{
+    display: inline-block;
+    padding: 15px;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: 700;
+    display: block;
+    padding: 7px 7px;
+}
+nav ul li a:hover{
+    color: #7F56F5;
+    background: white;
+    border-radius: 10px;
+}
+.banner{
+    padding: 150px;
+    text-align: center;
+    background: #7f56f5;
+}
+.banner h1{
+    font-size: 60px;
+    color: white;
+}
+.banner p{
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-size: 20px;
+}
+
+.feature1{}
+.row{
+    padding: 60px 0;
+    margin: 0;
+    text-align: left;
+}
+.col1{
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+    padding: 30px 20px;
+}
+.col1 img{
+    padding: 20px;
+}
+.col1 h1{
+    font-size: 40px;
+}
+.col1 p{
+    font-size: 25px;
+    color: #5a5a5a;
+}
+.col2{
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+    padding: 30px 0;
+}
+.col2 img{
+    padding: 45px;
+    width: 70%;
+}
+.button{font-size: 20px;
+    padding: 10px;
+    background: #3F51B5;
+    display: inline-block;
+    border-radius: 5px;}
+.button a{color: white;
+    text-decoration: none;
+    padding: 10px;}
+.button a:hover{
+    background: white;
+    color: #3f51b5;
+    padding: 10px;}
+
+
+.footer{background: #f0eef7;padding-top: 100px;}
+.saas{
+    width: 40%;
+    float: left;
+    padding: 0px 35px;
+    box-sizing: border-box;
+}
+.saas img{
+    padding: 30px 0;
+}
+.saas h3{
+    font-size: 20px;
+    color: #5a5a5a;
+}
+.about{
+    width: 20%;
+    float: left;
+    padding: 0px 15px;
+    box-sizing: border-box;
+}
+.about h1{
+    font-size: 25px;
+    font-weight: 900;
+    margin: 0;
+}
+.workflow{
+    width: 20%;
+    float: left;
+    padding: 0px 14px;
+    box-sizing: border-box;
+}
+.workflow h1{
+    font-size: 25px;
+    font-weight: 900;
+    margin: 0;
+}
+.team{
+    width: 20%;
+    float: left;
+    padding: 0px 15px;
+    box-sizing: border-box;
+}
+.team h1{
+    font-size: 25px;
+    font-weight: 900;
+    margin: 0;
+}
+ul{
+    padding: 35px 0;
+    margin: 0;
+    text-decoration: none;
+}
+ul li{
+    list-style-type: none;
+    padding: 10px 0;
+}
+ul li a{
+    text-decoration: none;
+    color: #5a5a5a;
+    font-size: 20px;
+}
+
+.image{
+    margin: auto;
+    width: 1200px;
+}
